@@ -7,7 +7,8 @@
    
 ### Client Terminal
    This terminal is an Android APP actually.The app is formed with 5 activities.(Login,Register,UserView,ShareParking Findparking).
-   The first activity is the Login Activty,this activiey and theother Register Activity are completely based on an other project I finished,so I won't mention these too much here.
+#### Login and Register Activity
+   The first activity is the Login Activty,this activiey and theother Register Activity are completely based on an other project I finished,so I won't mention these too much here.
 
 ---
 <div align=center>
@@ -19,5 +20,13 @@
 <img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/register.png" width="400" height="600" alt="Login"/>
 </div>
 
+---
+#### User Activity
+   Here you can see two buttons.They mean two functions avaliable,you can press 'Share my parking space' to share your free
+   parking space with people,or you can press 'Find a parking space' to find a free parking space.
 
+---
+<div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/userview.png" width="400" height="600" alt="Login"/>
+</div>
    
