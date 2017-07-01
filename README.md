@@ -37,6 +37,11 @@
 
 ---
  <div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/locating.png" width="400" height="600" alt="Locating"/>
+</div>
+
+---
+ <div align=center>
 <img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/share.png" width="400" height="600" alt="ShareView"/>
 </div>
 
@@ -44,5 +49,40 @@
  <div align=center>
 <img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/sharesuccess.png" width="400" height="600" alt="sucess"/>
 </div>
+
+---
+
+#### FindParking Activity
+     This activity is desiged for the people to find a parking space.At first,you can press the 'EXPLORE PARKINGSPACE' button
+     to find some parking spaces(5 max due to server) are close to your current location.Then the app will mark all these avalible parking spaces at google map,and you can get the names and descriptions at the google map(you even can get the navigation to the parkingspace you selected).When you have choose the parking space already,press the 'Start parking' button
+     to occupy the space,the server will send you a push to inform your parking information meanwhile.When you finished the parking ,press 'Stop parking' to release the parking space.
+     
+---
+ <div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/parkingview.png" width="400" height="600" alt="ParkingAc"/>
+</div>
+
+---
+ <div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/parkingspace.png" width="400" height="600" alt="ParkingSpace Marker"/>
+</div>
+
+---
+ <div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/startparking.png" width="400" height="600" alt="Startparking"/>
+</div>
+
+---
+ <div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/stopparking.png" width="400" height="600" alt="Stopparking"/>
+</div>
+
+---
+ <div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/push.png" width="600" height="200" alt="ParkinginfoPush"/>
+</div>
+
+---
+
 
    
