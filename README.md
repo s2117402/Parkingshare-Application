@@ -29,4 +29,20 @@
 <div align=center>
 <img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/userview.png" width="400" height="600" alt="Login"/>
 </div>
+
+---
+#### ShareParking Activity
+   Here you can share your free parking space(Before you want to share your parking space,please make sure you are standing at
+   the parking space).At first,you should name your shared parking space and give some description about it.Then press 'Get location' to get the GPS information,then submit it.Here are some pictures of possible cases below.
+
+---
+ <div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/share.png" width="400" height="600" alt="ShareView"/>
+</div>
+
+---
+ <div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/sharesuccess.png" width="400" height="600" alt="sucess"/>
+</div>
+
    
