@@ -91,7 +91,7 @@
      After I get the user's location.how can I get 5 closet parkingspaces from database,I got confused about this question for
      long time.I don't want use very complicated SQL language to achive this.As we all know,5 miles from user's location is a       circle,what I  did is find the largest rectangle in this circle,then find the parking spaces in this rectangle from     database,that's much easier than finding some locations from the range of a circle.
       <div align=center>
-<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/demonstartion.png" width="400" height="400" alt="demonstartion"/>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/demonstration.png" width="400" height="400" alt="demonstration"/>
 </div>
 
 #### 2.Format of parkingspaces informations
