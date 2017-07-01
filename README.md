@@ -33,7 +33,7 @@
 ---
 #### ShareParking Activity
    Here you can share your free parking space(Before you want to share your parking space,please make sure you are standing at
-   the parking space).At first,you should name your shared parking space and give some description about it.Then press 'Get location' to get the GPS information,then submit it.Here are some pictures of possible cases below.
+   the parking space).At first,you should name your shared parking space and give some description about it.Then press 'Get location' to get the GPS information(The system will mark your location in the googlemap),then submit it.Here are some pictures of possible cases below.
 
 ---
  <div align=center>
