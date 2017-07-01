@@ -54,7 +54,7 @@
 
 #### FindParking Activity
      This activity is desiged for the people to find a parking space.At first,you can press the 'EXPLORE PARKINGSPACE' button
-     to find some parking spaces(5 max due to server) are close to your current location.Then the app will mark all these avalible parking spaces at google map,and you can get the names and descriptions at the google map(you even can get the navigation to the parkingspace you selected).When you have choose the parking space already,press the 'Start parking' button
+     to find some parking spaces(5 max in 5 miles) are close to your current location.Then the app will mark all these avalible parking spaces at google map,and you can get the names and descriptions at the google map(you even can get the navigation to the parkingspace you selected).When you have choose the parking space already,press the 'Start parking' button
      to occupy the space,the server will send you a push to inform your parking information meanwhile.When you finished the parking ,press 'Stop parking' to release the parking space.
      
 ---
@@ -83,6 +83,23 @@
 </div>
 
 ---
+
+
+### Server Terminal
+   In the server terminal,I use the Python(Flask) to build a web server to process all information.For the database,I use the Sqlite3 to build two databases.One is used to store the users information,the other is used to store the parkingspace information.Here are three important points below I want to mention.
+#### 1.How to get the 5 closet parking spaces?
+     After I get the user's location.how can I get 5 closet parkingspaces from database,I got confused about this question for
+     long time.I don't want use very complicated SQL language to achive this.As we all know,5 miles from user's location is a       circle,what I  did is find the largest rectangle in this circle,then find the parking spaces in this rectangle from     database,that's much easier than finding some locations from the range of a circle.
+
+#### 2.Format of parkingspaces informations
+     After the server get all parkingspaces information and want to send them back to the client.I use the JSON format to
+     transmit these parkingsapce information
+    
+#### 2.The Push from server
+     When user park his car sucessfully,the server will send a push to the user to inform him.I used a third-party
+      Push API called Jpush(Jiguang) to achive this.When the user log in the App sucessusfully,the system will use the       username as the alias and send it to the Jpush server.Then our parkingshare server can send jpush by username.
+
+  
 
 
    
