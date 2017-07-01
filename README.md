@@ -69,17 +69,17 @@
 
 ---
  <div align=center>
-<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/startparking.png" width="400" height="600" alt="Startparking"/>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/parksuccess.png" width="400" height="600" alt="Startparking"/>
 </div>
 
 ---
  <div align=center>
-<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/parksuccess.png" width="400" height="600" alt="Stopparking"/>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/stopsuccess.png" width="400" height="600" alt="Stopparking"/>
 </div>
 
 ---
  <div align=center>
-<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/stopsuccess.png" width="600" height="200" alt="ParkinginfoPush"/>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/push.png" width="600" height="200" alt="ParkinginfoPush"/>
 </div>
 
 ---
