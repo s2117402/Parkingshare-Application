@@ -10,9 +10,13 @@
    The first activity is the Login Activty,this activiey and theother Register Activity are completely based on an other project I finished,so I won't mention these too much here.
 
 ---
-   ![Login](https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/login.png)
+<div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/login.png" width="400" height="600" alt="Login"/>
+</div>
 ---
-   ![Register](https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/register.png)
+<div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/register.png" width="400" height="600" alt="Login"/>
+</div>
 
 
    
