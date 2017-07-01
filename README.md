@@ -98,8 +98,14 @@
 #### 2.The Push from server
      When user park his car sucessfully,the server will send a push to the user to inform him.I used a third-party
       Push API called Jpush(Jiguang) to achive this.When the user log in the App sucessusfully,the system will use the       username as the alias and send it to the Jpush server.Then our parkingshare server can send jpush by username.
+---
+Here is the view of some logs in server
+---
+ <div align=center>
+<img src="https://raw.githubusercontent.com/s2117402/Parkingshare-Application/master/Image/loginserver.png" width="600" height="200" alt="Logs"/>
+</div>
 
-  
+---
 
 
    
